@@ -1,5 +1,5 @@
 # Personal Portfolio Website built with React v16
-
+<img src="./screens/Eljily.png">
 ## Available Scripts
 
 In the project directory, you can run:
