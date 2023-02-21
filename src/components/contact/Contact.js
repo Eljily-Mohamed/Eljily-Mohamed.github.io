@@ -29,14 +29,14 @@ const useStyles = makeStyles((theme) => ({
 
 export const Contact = () => {
   const classes = useStyles();
-  const greetings = "Say hello.";
+  const greetings = "Say yak lbs.";
 
   const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_8bezxog', 'template_jmsk313', form.current, 'knwNTK4YU4K30HYMd')
+    emailjs.sendForm('service_ge25nnk', 'template_b5hn7fc', form.current, 'UqUeLR5H2fSzW-Gxm')
       .then((result) => {
           console.log(result.text);
       }, (error) => {

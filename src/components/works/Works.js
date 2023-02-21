@@ -9,11 +9,11 @@ import './Works.css';
 
 // Import ../../assets/recentprojects/
 import Portfolio from '../../assets/recentprojects/react-portfolio.png';
-import Veritru from '../../assets/recentprojects/veritru.png';
-import Lofo from '../../assets/recentprojects/lofo.png';
-import Startup from '../../assets/recentprojects/startup.png';
-import Lacalle from '../../assets/recentprojects/lacalle.png';
-
+import tic_tac_toe from '../../assets/recentprojects/tic_tac_toe.png';
+import weather from '../../assets/recentprojects/weather.png';
+import todo_list from '../../assets/recentprojects/todo_list.png';
+import quiz from '../../assets/recentprojects/quiz.png';
+import chess from '../../assets/recentprojects/chess.png';
 const useStyles = makeStyles((theme) => ({
   main: {
     maxWidth: '100vw',
@@ -36,37 +36,42 @@ export const Works = () => {
     },
     { 
       id: 2,
-      title: 'VeriTru Project', 
-      description: `An advocacy project website built using
-      MEAN stack with fact-checking tool to promote actions against
-      fake news.`,
+      title: 'tic-tac-toe game', 
+      description: `small tic-tac-toe game  3×3 built using
+      ReactJs Tic-Tac-Toe is one of the oldest and most popular board games in the world.`,
       alter: 'VeriTru Project',
-      image: `${Veritru}`,
+      image: `${tic_tac_toe}`,
     },
     { 
       id: 3,
-      title: 'LoFo Project', 
-      description: `Logistics and Forwarding website built using
-      ReactJS to design and develop its front-end.`,
-      alter: 'LoFo Project',
-      image: `${Lofo}`,
+      title: 'weather Project', 
+      description: `Web App to see the weather forecast in your city , connect with weatherAPI. using 
+      ReactJs , Api Fetch`,
+      alter: 'weather Project',
+      image: `${weather}`,
     },
     { 
       id: 4,
-      title: 'Startup Project', 
-      description: `A website portfolio project for the Startup Dev Team
-      built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
-      alter: 'Startup Project',
-      image: `${Startup}`,
+      title: 'Todo-List Manager Project', 
+      description: `A Todo-List Manager project Using a shell script
+      Simple todo list extension. You can add and remove tasks on your list..`,
+      alter: 'todo_list Project',
+      image: `${todo_list}`,
     },
     { 
       id: 5,
-      title: 'LaCalle Cafe', 
-      description: `A website project for the La Calle Cafe business
-      built using Wordpress and PHP with integrated SEO tools to help
-      the business ramp up its prospects and lead generation.`,
-      alter: 'Startup Project',
-      image: `${Lacalle}`,
+      title: 'Quiz Project', 
+      description: `A website where you can play with simple quizzes and learn more about Mauritania..`,
+      alter: 'Quiz Project',
+      image: `${quiz}`,
+    },
+     { 
+      id: 6,
+      title: 'Chess Game', 
+      description: `Chess real-time is a great game. It’s even better if you’re good at it. Regrettably, 
+      I’ve never taken the time to learn chess strategy, so I decided to rely on the power of computation and game theory instead! 
+      As a fun side project, I have implemented a simple chess AI using React and Socket.io.`,
+      image: `${chess}`,
     },
   ]);
 
