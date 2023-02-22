@@ -8,9 +8,7 @@
         "x_title": "Hello, I'm",
         "job1": "CSS ",
         "job2": "Full Stack Web Developer",
-        "description": "Hello! I'm Eljily! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
-        "summary": "based in Angeles, Philippines.",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "description": "Hello! I'm Eljily! Your web development enthusiast. Always down for something new and challenging!",
         "location": {
             "address": "Route d'El Jadida",
             "city": "Casablanca",
