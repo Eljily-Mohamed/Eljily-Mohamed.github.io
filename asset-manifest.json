@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.f41b67bd.css",
-    "main.js": "/static/js/main.7ab6e987.js",
+    "main.js": "/static/js/main.53c08a76.js",
     "static/js/333.ff23a92f.chunk.js": "/static/js/333.ff23a92f.chunk.js",
+    "static/media/Eljily_Mohamed_Resume.pdf": "/static/media/Eljily_Mohamed_Resume.be137e9ebc56d4aa6d5c.pdf",
     "static/media/quiz.png": "/static/media/quiz.952d0edb244c99597ef2.png",
     "static/media/react-portfolio.png": "/static/media/react-portfolio.9c1e63742d16388a1efa.png",
     "static/media/profile.png": "/static/media/profile.d0e877564fe290615031.png",
-    "static/media/Tan_Mark_Resume.pdf": "/static/media/Tan_Mark_Resume.9240e8548ee148e31722.pdf",
     "static/media/chess.png": "/static/media/chess.6d27737b6dfe78954374.png",
     "static/media/todo_list.png": "/static/media/todo_list.1945d37c64489f2e3053.png",
     "static/media/tic_tac_toe.png": "/static/media/tic_tac_toe.5260a138a5f66820ba68.png",
     "static/media/weather.png": "/static/media/weather.d19733eb4a1439ae9deb.png",
     "index.html": "/index.html",
     "main.f41b67bd.css.map": "/static/css/main.f41b67bd.css.map",
-    "main.7ab6e987.js.map": "/static/js/main.7ab6e987.js.map",
+    "main.53c08a76.js.map": "/static/js/main.53c08a76.js.map",
     "333.ff23a92f.chunk.js.map": "/static/js/333.ff23a92f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f41b67bd.css",
-    "static/js/main.7ab6e987.js"
+    "static/js/main.53c08a76.js"
   ]
 }
