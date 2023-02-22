@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "Eljily-mohamed.github.io",
   "description": "A clean and customizable ReactJS portfolio ",
   "repository": "https://github.com/taniyow/react-portfolio",
   "author": "Eljily Mohamed <mohamedeljily2005@gmail.com>",
@@ -15,6 +15,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "classnames": "^2.2.6",
+    "gh-pages": "^5.0.0",
     "ios-inner-height": "^1.1.1",
     "popmotion": "^8.7.3",
     "react": "^17.0.0",
@@ -29,7 +30,9 @@
     "three": "^0.125.0",
     "use-dencrypt-effect": "1.0.1"
   },
-  "scripts": {
+  "scripts": { 
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build && react-snapshot",
     "test": "react-scripts test",
