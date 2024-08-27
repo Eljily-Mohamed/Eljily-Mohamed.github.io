@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ed04019.chunk.css",
+    "main.js": "/static/js/main.8187888a.chunk.js",
+    "main.js.map": "/static/js/main.8187888a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3b792054.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3b792054.js.map",
+    "static/js/2.67896c13.chunk.js": "/static/js/2.67896c13.chunk.js",
+    "static/js/2.67896c13.chunk.js.map": "/static/js/2.67896c13.chunk.js.map",
+    "static/js/3.1f142ff5.chunk.js": "/static/js/3.1f142ff5.chunk.js",
+    "static/js/3.1f142ff5.chunk.js.map": "/static/js/3.1f142ff5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.246099629510b302515cdea46787b737.js": "/precache-manifest.246099629510b302515cdea46787b737.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8ed04019.chunk.css.map": "/static/css/main.8ed04019.chunk.css.map",
+    "static/js/2.67896c13.chunk.js.LICENSE.txt": "/static/js/2.67896c13.chunk.js.LICENSE.txt",
+    "static/media/chess.png": "/static/media/chess.053d5378.png",
+    "static/media/lastVersion.pdf": "/static/media/lastVersion.e1b88918.pdf",
+    "static/media/profile.png": "/static/media/profile.4bccf036.png",
+    "static/media/quiz.png": "/static/media/quiz.f4347a47.png",
+    "static/media/react-portfolio.png": "/static/media/react-portfolio.4f0238d3.png",
+    "static/media/tic_tac_toe.png": "/static/media/tic_tac_toe.c8e811df.png",
+    "static/media/todo_list.png": "/static/media/todo_list.2c9ebd97.png",
+    "static/media/weather.png": "/static/media/weather.eef43692.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b792054.js",
+    "static/js/2.67896c13.chunk.js",
+    "static/css/main.8ed04019.chunk.css",
+    "static/js/main.8187888a.chunk.js"
+  ]
+}
