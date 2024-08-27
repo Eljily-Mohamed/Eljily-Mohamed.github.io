@@ -15,7 +15,6 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "classnames": "^2.2.6",
-    "gh-pages": "^5.0.0",
     "ios-inner-height": "^1.1.1",
     "popmotion": "^8.7.3",
     "react": "^17.0.0",
@@ -60,6 +59,7 @@
     ]
   },
   "devDependencies": {
-    "emailjs": "^4.0.0"
+    "emailjs": "^4.0.0",
+    "gh-pages": "^6.1.1"
   }
 }
