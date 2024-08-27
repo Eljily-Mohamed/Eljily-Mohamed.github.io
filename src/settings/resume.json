@@ -1,0 +1,51 @@
+{
+    "basics": {
+        "name": "Eljily Mohamed",
+        "label": "Full Stack Web Developer",
+        "email": "mohamedeljily2005@gmail.com",
+        "phone": "(212) 763-175912",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "CSS ",
+        "job2": "Full Stack Web Developer",
+        "description": "Hello! I'm Eljily! Your web development enthusiast. Always down for something new and challenging!",
+        "location": {
+            "address": "Route d'El Jadida",
+            "city": "Casablanca",
+            "country": "Morocco",
+            "countryCode": "MR",
+            "region": "North Africa"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "EL Jily Mohamed",
+                "url": "https://www.linkedin.com/in/el-jily-mohamed-6b9405228/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "ELjily-Mohamed",
+                "url": "https://github.com/Eljily-Mohamed",
+                "x_icon": "fab fa-github"
+            }
+        ]
+    },
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Senior",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Arabic",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ]
+}
