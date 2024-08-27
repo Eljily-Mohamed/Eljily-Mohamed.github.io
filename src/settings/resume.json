@@ -1,26 +1,26 @@
 {
     "basics": {
         "name": "Eljily Mohamed",
-        "label": "Full Stack Web Developer",
+        "label": "Software Engineer",
         "email": "mohamedeljily2005@gmail.com",
-        "phone": "(212) 763-175912",
+        "phone": "(33) 745-446531",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
         "job1": "CSS ",
-        "job2": "Full Stack Web Developer",
+        "job2": "Software Engineer",
         "description": "Hello! I'm Eljily! Your web development enthusiast. Always down for something new and challenging!",
         "location": {
-            "address": "Route d'El Jadida",
-            "city": "Casablanca",
-            "country": "Morocco",
-            "countryCode": "MR",
-            "region": "North Africa"
+        "address": "3 Petite Rue Vauban",
+        "city": "Brest",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "Brittany"
         },
         "profiles": [
             {
                 "network": "LinkedIn",
                 "username": "EL Jily Mohamed",
-                "url": "https://www.linkedin.com/in/el-jily-mohamed-6b9405228/",
+                "url": "https://www.linkedin.com/in/mohamed-eljily",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
@@ -33,7 +33,7 @@
     },
     "skills": [
         {
-            "name": "Web Development",
+            "name": "Software Engineer",
             "level": "Senior",
             "keywords": ["HTML", "CSS", "Javascript"]
         }
@@ -41,11 +41,15 @@
     "languages": [
         {
             "language": "Arabic",
-            "fluency": "Fluent speaker"
+            "fluency": "Fluent"
         },
         {
             "language": "French",
-            "fluency": "Good knowledge"
+            "fluency": "Proficient"
+        },
+        {
+            "language": "English",
+            "fluency": "Intermediate"
         }
     ]
 }
